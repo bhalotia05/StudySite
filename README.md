@@ -7,8 +7,13 @@
 </div>
 
 <br />
+In order to view the website click on the given link
 ```<a href="http://127.0.0.1:5500"><strong>➥ Live Demo</strong></a>```
 </br>
+</br>
+</br>
+</br>
+
 Bootstrap Icon :
 ```html
 <!-- bootstrap icon link  -->
