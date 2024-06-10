@@ -7,7 +7,7 @@
 </div>
 
 <br />
-```<a href="https://github.com/bhalotia05/StudySite.git"><strong>➥ Live Demo</strong></a>```
+```<a href="https://bhalotia05.github.io/StudySite"><strong>➥ Live Demo</strong></a>```
 Bootstrap Icon :
 ```html
 <!-- bootstrap icon link  -->
