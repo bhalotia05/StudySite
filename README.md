@@ -8,6 +8,7 @@
 
 <br />
 ```<a href="http://127.0.0.1:5500"><strong>➥ Live Demo</strong></a>```
+</br>
 Bootstrap Icon :
 ```html
 <!-- bootstrap icon link  -->
