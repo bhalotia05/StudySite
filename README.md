@@ -8,7 +8,7 @@
 
 <br />
 In order to view the website click on the given link
-```<a href="http://127.0.0.1:5500"><strong>➥ Live Demo</strong></a>```
+```<a href="https://bhalotia05.github.io/StudySite/"><strong>➥ Live Demo</strong></a>```
 </br>
 </br>
 </br>
